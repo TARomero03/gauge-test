@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="BuyAnItem" parallel="false">
+  <target name="reports" depends="run-tests">
+<mkdir dir=""/>
+	<junitreport todir="test-report">
+		<fileset dir="test-output">
+			<include name="*/*.xml"/>
+		</fileset>
+		<report format="noframes" todir="test-report"/>
+	</junitreport>
+</target>
+
+<listeners>
+      <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+  </listeners>
+
+
+  <parameter name="DetailLog" value="true" />
+ <parameter name="ScreenCaptureLevel" value="ALL" />
+      <parameter name="OrderQuantity" value="3" />
+   
+ 
+ 
+
+     <test name="Buy A 4ocean x To-Go Ware Bamboo Utensil Set without Logging In -- Chrome">
+     <parameter name="Browser" value="chrome" />
+       <parameter name="ProductName" value="4ocean x To-Go Ware Bamboo Utensil Set" />
+  	   <parameter name="ResultsFolder" value="Results" />
+	   <parameter name="EventLogFolder" value=""  />
+	   <parameter name="Expected" value="true"
+	    />
+	   
+    <groups>
+    <run>
+      <include name="grpA"/>
+      <include name="Start"/>
+      <include name="Finish"/>
+    </run>
+  </groups>
+  
+    <classes>
+      <class name="com.companyname.automation.testng.scripts.TestNGTestScripts.BuyAnItem"/>
+    </classes>
+  </test> <!-- Test -->
+
+
+</suite> <!-- Suite -->

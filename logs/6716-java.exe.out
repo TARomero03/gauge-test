@@ -1,0 +1,55 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 6272milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 6272"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 56491"}
+{"logLevel":"info","message":"Listening on port:56491"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.ensureInstallationInstructionsAreAvailable' and 'org.example.StepImplementation.ensureInstallationInstructionsAreAvailable'"}
+{"logLevel":"debug","message":"Found Ensure installation instructions are available in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.FindItem' and 'org.example.StepImplementation.FindItem'"}
+{"logLevel":"debug","message":"Found Find Item {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.Open4Ocean' and 'org.example.StepImplementation.Open4Ocean'"}
+{"logLevel":"debug","message":"Found Open The 4Ocean Site in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.gotoGetStartedPage' and 'org.example.StepImplementation.gotoGetStartedPage'"}
+{"logLevel":"debug","message":"Found Go to Gauge Get Started Page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.implementation1' and 'org.example.StepImplementation.implementation1'"}
+{"logLevel":"debug","message":"Found Open the Gauge homepage in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.OpenCatalog' and 'org.example.StepImplementation.OpenCatalog'"}
+{"logLevel":"debug","message":"Found Open The Catalog in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\t// blank no check on the Scenario/Pickle Provided\r\n\"Scenarios : public void beforeTestMethod(@Optional(\"true\") boolean bDetailLog, @Optional(\"All\") String sScreenCaptureLevel, @Optional(\"chrome\") String sBrowser, @Optional(\"\") String sFeatures, @Optional(\"\") String sScenarios, @Optional(\"\") String sResultsFolder, @Optional(\"\") String sEventsLogFolder, @Optional(\"\") String sExpected, @Optional(\"\") String sExcelFile, @Optional(\"\") String sWorksheet, ITestContext ctx)"}
+{"logLevel":"debug","message":"\tFind Item {} : public void FindItem(String sItemName)"}
+{"logLevel":"debug","message":"\tDetailLog : public void beforeTestMethod(@Optional(\"true\") boolean bDetailLog, @Optional(\"All\") String sScreenCaptureLevel, @Optional(\"chrome\") String sBrowser, @Optional(\"\") String sFeatures, @Optional(\"\") String sScenarios, @Optional(\"\") String sResultsFolder, @Optional(\"\") String sEventsLogFolder, @Optional(\"\") String sExpected, @Optional(\"\") String sExcelFile, @Optional(\"\") String sWorksheet, ITestContext ctx)"}
+{"logLevel":"debug","message":"\tI find Item {string} : public void i_find_Item(String ProductName)"}
+{"logLevel":"debug","message":"\tExcelFile : public void beforeTestMethod(@Optional(\"true\") boolean bDetailLog, @Optional(\"All\") String sScreenCaptureLevel, @Optional(\"chrome\") String sBrowser, @Optional(\"\") String sFeatures, @Optional(\"\") String sScenarios, @Optional(\"\") String sResultsFolder, @Optional(\"\") String sEventsLogFolder, @Optional(\"\") String sExpected, @Optional(\"\") String sExcelFile, @Optional(\"\") String sWorksheet, ITestContext ctx)"}
+{"logLevel":"debug","message":"\tScreenCaptureLevel : public void beforeTestMethod(@Optional(\"true\") boolean bDetailLog, @Optional(\"All\") String sScreenCaptureLevel, @Optional(\"chrome\") String sBrowser, @Optional(\"\") String sFeatures, @Optional(\"\") String sScenarios, @Optional(\"\") String sResultsFolder, @Optional(\"\") String sEventsLogFolder, @Optional(\"\") String sExpected, @Optional(\"\") String sExcelFile, @Optional(\"\") String sWorksheet, ITestContext ctx)"}
+{"logLevel":"debug","message":"\tWorksheet : public void beforeTestMethod(@Optional(\"true\") boolean bDetailLog, @Optional(\"All\") String sScreenCaptureLevel, @Optional(\"chrome\") String sBrowser, @Optional(\"\") String sFeatures, @Optional(\"\") String sScenarios, @Optional(\"\") String sResultsFolder, @Optional(\"\") String sEventsLogFolder, @Optional(\"\") String sExpected, @Optional(\"\") String sExcelFile, @Optional(\"\") String sWorksheet, ITestContext ctx)"}
+{"logLevel":"debug","message":"\t// blank no check on the Feature Provided\r\n\"Features : public void beforeTestMethod(@Optional(\"true\") boolean bDetailLog, @Optional(\"All\") String sScreenCaptureLevel, @Optional(\"chrome\") String sBrowser, @Optional(\"\") String sFeatures, @Optional(\"\") String sScenarios, @Optional(\"\") String sResultsFolder, @Optional(\"\") String sEventsLogFolder, @Optional(\"\") String sExpected, @Optional(\"\") String sExcelFile, @Optional(\"\") String sWorksheet, ITestContext ctx)"}
+{"logLevel":"debug","message":"\tthe Shopping Page should open : public void the_Shopping_Page_should_open()"}
+{"logLevel":"debug","message":"\tOpen the Gauge homepage : public void implementation1()"}
+{"logLevel":"debug","message":"\tOpen The 4Ocean Site : public void Open4Ocean()"}
+{"logLevel":"debug","message":"\tOpen The Catalog : public void OpenCatalog()"}
+{"logLevel":"debug","message":"\tResultsFolder : public void beforeTestMethod(@Optional(\"true\") boolean bDetailLog, @Optional(\"All\") String sScreenCaptureLevel, @Optional(\"chrome\") String sBrowser, @Optional(\"\") String sFeatures, @Optional(\"\") String sScenarios, @Optional(\"\") String sResultsFolder, @Optional(\"\") String sEventsLogFolder, @Optional(\"\") String sExpected, @Optional(\"\") String sExcelFile, @Optional(\"\") String sWorksheet, ITestContext ctx)"}
+{"logLevel":"debug","message":"\tI enter in the URL http:\\\\/\\\\/www{double}ocean.com and hit the enter key : public void i_enter_in_the_URL_http_www_ocean_com_and_hit_the_enter_key(Double double1)"}
+{"logLevel":"debug","message":"\tI highlight the Product : public void i_highlight_the_Product()"}
+{"logLevel":"debug","message":"\tEnsure installation instructions are available : public void ensureInstallationInstructionsAreAvailable() throws InterruptedException"}
+{"logLevel":"debug","message":"\tEventLogFolder : public void beforeTestMethod(@Optional(\"true\") boolean bDetailLog, @Optional(\"All\") String sScreenCaptureLevel, @Optional(\"chrome\") String sBrowser, @Optional(\"\") String sFeatures, @Optional(\"\") String sScenarios, @Optional(\"\") String sResultsFolder, @Optional(\"\") String sEventsLogFolder, @Optional(\"\") String sExpected, @Optional(\"\") String sExcelFile, @Optional(\"\") String sWorksheet, ITestContext ctx)"}
+{"logLevel":"debug","message":"\tExpected : public void beforeTestMethod(@Optional(\"true\") boolean bDetailLog, @Optional(\"All\") String sScreenCaptureLevel, @Optional(\"chrome\") String sBrowser, @Optional(\"\") String sFeatures, @Optional(\"\") String sScenarios, @Optional(\"\") String sResultsFolder, @Optional(\"\") String sEventsLogFolder, @Optional(\"\") String sExpected, @Optional(\"\") String sExcelFile, @Optional(\"\") String sWorksheet, ITestContext ctx)"}
+{"logLevel":"debug","message":"\tI find Product {string} : public void i_find_Product(String ProductName)"}
+{"logLevel":"debug","message":"\tGo to Gauge Get Started Page : public void gotoGetStartedPage() throws InterruptedException"}
+{"logLevel":"debug","message":"\tThe browser is open : public void the_browser_is_open()"}
+{"logLevel":"debug","message":"\tthe {int}Ocean Site should be open : public void the_Ocean_Site_should_be_open(Integer int1)"}
+{"logLevel":"debug","message":"\tI Select the Shop button : public void i_Select_the_Shop_button()"}
+{"logLevel":"debug","message":"\tBrowser : public void beforeTestMethod(@Optional(\"true\") boolean bDetailLog, @Optional(\"All\") String sScreenCaptureLevel, @Optional(\"chrome\") String sBrowser, @Optional(\"\") String sFeatures, @Optional(\"\") String sScenarios, @Optional(\"\") String sResultsFolder, @Optional(\"\") String sEventsLogFolder, @Optional(\"\") String sExpected, @Optional(\"\") String sExcelFile, @Optional(\"\") String sWorksheet, ITestContext ctx)"}
+Starting ChromeDriver 87.0.4280.88 (89e2380a3e36c3464b5dd1302349b1382549290d-refs/branch-heads/4280@{#1761}) on port 38394
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jan 01, 2021 9:22:07 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C

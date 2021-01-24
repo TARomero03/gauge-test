@@ -1,0 +1,400 @@
+src\test\java\StepDefinitions\TestStepDefinitions.java:8: error: package io.cucumber.java does not exist
+import io.cucumber.java.After;
+                       ^
+src\test\java\StepDefinitions\TestStepDefinitions.java:9: error: package io.cucumber.java does not exist
+import io.cucumber.java.Before;
+                       ^
+src\test\java\StepDefinitions\TestStepDefinitions.java:10: error: package io.cucumber.java does not exist
+import io.cucumber.java.PendingException;
+                       ^
+src\test\java\StepDefinitions\TestStepDefinitions.java:11: error: package io.cucumber.java does not exist
+import io.cucumber.java.Scenario;
+                       ^
+src\test\java\StepDefinitions\TestStepDefinitions.java:14: error: package org.testng does not exist
+import org.testng.Assert;
+                 ^
+src\test\java\StepDefinitions\TestStepDefinitions.java:15: error: package org.testng does not exist
+import org.testng.Reporter;
+                 ^
+src\test\java\com\companyname\automation\commontools\Globals.java:6: error: package org.openqa.selenium.remote does not exist
+import org.openqa.selenium.remote.RemoteWebDriver;
+                                 ^
+src\test\java\com\companyname\automation\commontools\Globals.java:9: error: package org.testng does not exist
+import org.testng.ITestContext;
+                 ^
+src\test\java\com\companyname\automation\commontools\NonObjectMethods.java:48: error: package org.testng does not exist
+import org.testng.Assert;
+                 ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:13: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.Alert;
+                          ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:14: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.By;
+                          ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:15: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.Capabilities;
+                          ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:16: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.JavascriptExecutor;
+                          ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:17: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.NoSuchElementException;
+                          ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:18: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.WebDriver;
+                          ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:19: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.WebElement;
+                          ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:20: error: package org.openqa.selenium.chrome does not exist
+import org.openqa.selenium.chrome.ChromeDriver;
+                                 ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:21: error: package org.openqa.selenium.chrome does not exist
+import org.openqa.selenium.chrome.ChromeOptions;
+                                 ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:22: error: package org.openqa.selenium.edge does not exist
+import org.openqa.selenium.edge.EdgeDriver;
+                               ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:23: error: package org.openqa.selenium.firefox does not exist
+import org.openqa.selenium.firefox.FirefoxDriver;
+                                  ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:24: error: package org.openqa.selenium.firefox does not exist
+import org.openqa.selenium.firefox.FirefoxOptions;
+                                  ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:25: error: package org.openqa.selenium.remote does not exist
+import org.openqa.selenium.remote.DesiredCapabilities;
+                                 ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:26: error: package org.openqa.selenium.remote does not exist
+import org.openqa.selenium.remote.CapabilityType;
+                                 ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:27: error: package org.openqa.selenium.remote does not exist
+import org.openqa.selenium.remote.RemoteWebDriver;
+                                 ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:28: error: package org.openqa.selenium.remote does not exist
+import org.openqa.selenium.remote.RemoteWebElement;
+                                 ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:29: error: package org.openqa.selenium.safari does not exist
+import org.openqa.selenium.safari.SafariDriver;
+                                 ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:30: error: package org.openqa.selenium.support.pagefactory does not exist
+import org.openqa.selenium.support.pagefactory.AjaxElementLocator;
+                                              ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:31: error: package org.testng.annotations does not exist
+import org.testng.annotations.Optional;
+                             ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:38: error: package io.appium.java_client.android does not exist
+import io.appium.java_client.android.AndroidDriver;
+                                    ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:39: error: package io.appium.java_client.android does not exist
+import io.appium.java_client.android.AndroidElement;
+                                    ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:40: error: package io.appium.java_client.remote does not exist
+import io.appium.java_client.remote.MobileCapabilityType;
+                                   ^
+src\test\java\com\companyname\automation\uiobjectmodels\SiteHeader.java:3: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.By;
+                          ^
+src\test\java\com\companyname\automation\uiobjectmodels\ProductCollectionPage.java:6: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.By;
+                          ^
+src\test\java\com\companyname\automation\uiobjectmodels\ProductCollectionPage.java:7: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.WebElement;
+                          ^
+src\test\java\com\companyname\automation\uiobjectmodels\ProductCollectionPage.java:8: error: package org.openqa.selenium.remote does not exist
+import org.openqa.selenium.remote.RemoteWebElement;
+                                 ^
+src\test\java\com\companyname\automation\uiobjectmodels\JoinTheMovement.java:3: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.By;
+                          ^
+src\test\java\StepDefinitions\TestStepDefinitions.java:39: error: cannot find symbol
+    public void StartScenario(Scenario scenario)
+                              ^
+  symbol:   class Scenario
+  location: class TestStepDefinitions
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:13: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.By;
+                          ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:14: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.Capabilities;
+                          ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:15: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.Dimension;
+                          ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:16: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.JavascriptExecutor;
+                          ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:17: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.Keys;
+                          ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:19: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.NoSuchElementException;
+                          ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:20: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.Point;
+                          ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:21: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.StaleElementReferenceException;
+                          ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:22: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.WebDriver;
+                          ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:23: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.WebElement;
+                          ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:24: error: package org.openqa.selenium.interactions does not exist
+import org.openqa.selenium.interactions.Action;
+                                       ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:25: error: package org.openqa.selenium.interactions does not exist
+import org.openqa.selenium.interactions.Actions;
+                                       ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:26: error: package org.openqa.selenium.interactions does not exist
+import org.openqa.selenium.interactions.Coordinates;
+                                       ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:27: error: package org.openqa.selenium.remote does not exist
+import org.openqa.selenium.remote.RemoteWebDriver;
+                                 ^
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:28: error: package org.openqa.selenium.remote does not exist
+import org.openqa.selenium.remote.RemoteWebElement;
+                                 ^
+src\test\java\com\companyname\automation\uiobjectmodels\JoinTheMovement.java:25: error: cannot find symbol
+	public By GetBycEntirePopUpDiv()
+	       ^
+  symbol:   class By
+  location: class JoinTheMovement
+src\test\java\com\companyname\automation\uiobjectmodels\JoinTheMovement.java:66: error: cannot find symbol
+	public By GetBycCloseImgBtn()
+	       ^
+  symbol:   class By
+  location: class JoinTheMovement
+src\test\java\com\companyname\automation\uiobjectmodels\JoinTheMovement.java:70: error: cannot find symbol
+	public By GetByCloseImgBtn()
+	       ^
+  symbol:   class By
+  location: class JoinTheMovement
+src\test\java\com\companyname\automation\uiobjectmodels\JoinTheMovement.java:133: error: cannot find symbol
+	public By GetBycBtnKeepMePosted()
+	       ^
+  symbol:   class By
+  location: class JoinTheMovement
+src\test\java\com\companyname\automation\uiobjectmodels\JoinTheMovement.java:171: error: cannot find symbol
+	public By GetBycIbEmail()
+	       ^
+  symbol:   class By
+  location: class JoinTheMovement
+src\test\java\com\companyname\automation\uiobjectmodels\JoinTheMovement.java:210: error: cannot find symbol
+	public By GetBycImgLogo()
+	       ^
+  symbol:   class By
+  location: class JoinTheMovement
+src\test\java\com\companyname\automation\uiobjectmodels\JoinTheMovement.java:249: error: cannot find symbol
+	public By GetBycTbTitle()
+	       ^
+  symbol:   class By
+  location: class JoinTheMovement
+src\test\java\com\companyname\automation\uiobjectmodels\JoinTheMovement.java:288: error: cannot find symbol
+	public By GetBycTbMessage()
+	       ^
+  symbol:   class By
+  location: class JoinTheMovement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:48: error: cannot find symbol
+	RemoteWebElement weCastFrom = null;
+	^
+  symbol:   class RemoteWebElement
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:50: error: cannot find symbol
+	RemoteWebElement rwe99 = null;
+	^
+  symbol:   class RemoteWebElement
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:52: error: cannot find symbol
+	Actions actions = new Actions(gbl99.getExtendedDriver().remoteDriver);
+	^
+  symbol:   class Actions
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:59: error: cannot find symbol
+	public ExtendedWebElement(RemoteWebElement weCastFrom) {
+	                          ^
+  symbol:   class RemoteWebElement
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:66: error: cannot find symbol
+	public ExtendedWebElement(WebElement weFrom) {
+	                          ^
+  symbol:   class WebElement
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:89: error: cannot find symbol
+	public RemoteWebElement GetWebElementCastFrom() {
+	       ^
+  symbol:   class RemoteWebElement
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:151: error: cannot find symbol
+public ExtendedWebElement GetExtendedWebElement(By By, double dTimeInSecs) {
+                                                ^
+  symbol:   class By
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:241: error: cannot find symbol
+public ExtendedWebElement GetExtendedWebElement(By By) {
+                                                ^
+  symbol:   class By
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:248: error: cannot find symbol
+public List<ExtendedWebElement> GetExtendedWebElements(By By, double dTimeInSecs) {
+                                                       ^
+  symbol:   class By
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:324: error: cannot find symbol
+public List<ExtendedWebElement> GetExtendedWebElements(By By) {
+                                                       ^
+  symbol:   class By
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:519: error: cannot find symbol
+	public WebElement findElement(By arg0) {
+	                              ^
+  symbol:   class By
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:519: error: cannot find symbol
+	public WebElement findElement(By arg0) {
+	       ^
+  symbol:   class WebElement
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:525: error: cannot find symbol
+	public List<WebElement> findElements(By arg0) {
+	                                     ^
+  symbol:   class By
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:525: error: cannot find symbol
+	public List<WebElement> findElements(By arg0) {
+	            ^
+  symbol:   class WebElement
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:549: error: cannot find symbol
+	public Point getLocation() {
+	       ^
+  symbol:   class Point
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:555: error: cannot find symbol
+	public Dimension getSize() {
+	       ^
+  symbol:   class Dimension
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:692: error: cannot find symbol
+	public Coordinates getCoordinates() {
+	       ^
+  symbol:   class Coordinates
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:773: error: cannot find symbol
+	public boolean IsObjectPresent(By byLocator) {
+	                               ^
+  symbol:   class By
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:867: error: cannot find symbol
+	public boolean IsObjectVisible(By byLocator) {
+	                               ^
+  symbol:   class By
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:928: error: cannot find symbol
+	public boolean WaitWhileAnElementExists(By byLocator, double dWait) {
+	                                        ^
+  symbol:   class By
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:961: error: cannot find symbol
+	public boolean WaitWhileAnElementIsVisible(By byLocator, double dWait) {
+	                                           ^
+  symbol:   class By
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:993: error: cannot find symbol
+	public WebElement WatchForAnElement(By by99, double dWaitSecs) {
+	                                    ^
+  symbol:   class By
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:993: error: cannot find symbol
+	public WebElement WatchForAnElement(By by99, double dWaitSecs) {
+	       ^
+  symbol:   class WebElement
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:1041: error: cannot find symbol
+	public WebElement WatchForElement(ArrayList alLocators, double dWait) {
+	       ^
+  symbol:   class WebElement
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:1410: error: cannot find symbol
+	public WebElement WatchForAVisibleElement(By by99, double dWaitSecs) {
+	                                          ^
+  symbol:   class By
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:1410: error: cannot find symbol
+	public WebElement WatchForAVisibleElement(By by99, double dWaitSecs) {
+	       ^
+  symbol:   class WebElement
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedWebElement.java:1462: error: cannot find symbol
+	public ExtendedWebElement WatchForAVisibleExtendedElement(By by99, double dWaitSecs) {
+	                                                          ^
+  symbol:   class By
+  location: class ExtendedWebElement
+src\test\java\com\companyname\automation\uiobjectmodels\ProductCollectionPage.java:22: error: cannot find symbol
+	public By GetBycProductList()
+	       ^
+  symbol:   class By
+  location: class ProductCollectionPage
+src\test\java\com\companyname\automation\uiobjectmodels\ObjectModelHelperMethods.java:3: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.By;
+                          ^
+src\test\java\com\companyname\automation\uiobjectmodels\SiteHeader.java:26: error: cannot find symbol
+	public By GetBycSiteHeaderBar()
+	       ^
+  symbol:   class By
+  location: class SiteHeader
+src\test\java\com\companyname\automation\uiobjectmodels\SiteHeader.java:44: error: cannot find symbol
+	public By GetBycShopTextBtn()
+	       ^
+  symbol:   class By
+  location: class SiteHeader
+src\test\java\com\companyname\automation\uiobjectmodels\SiteHeader.java:63: error: cannot find symbol
+	public By GetBycGetInvolvedTextBtn()
+	       ^
+  symbol:   class By
+  location: class SiteHeader
+src\test\java\com\companyname\automation\uiobjectmodels\SiteHeader.java:80: error: cannot find symbol
+	public By GetBycAboutTextBtn()
+	       ^
+  symbol:   class By
+  location: class SiteHeader
+src\test\java\com\companyname\automation\uiobjectmodels\SiteHeader.java:97: error: cannot find symbol
+	public By GetBycPoundPlusTextBtn()
+	       ^
+  symbol:   class By
+  location: class SiteHeader
+src\test\java\com\companyname\automation\uiobjectmodels\SiteHeader.java:115: error: cannot find symbol
+	public By GetBycUpcyclingTextBtn()
+	       ^
+  symbol:   class By
+  location: class SiteHeader
+src\test\java\com\companyname\automation\uiobjectmodels\SiteHeader.java:133: error: cannot find symbol
+	public By GetBycGetOurImpactTextBtn()
+	       ^
+  symbol:   class By
+  location: class SiteHeader
+src\test\java\com\companyname\automation\uiobjectmodels\SiteHeader.java:150: error: cannot find symbol
+	public By GetBycJoinTheClubTextBtn()
+	       ^
+  symbol:   class By
+  location: class SiteHeader
+src\test\java\com\companyname\automation\uiobjectmodels\ObjectModelHelperMethods.java:13: error: cannot find symbol
+	public ExtendedWebElement GetEweObject(ExtendedWebElement ewe, By by, double dTime)
+	                                                               ^
+  symbol:   class By
+  location: class ObjectModelHelperMethods
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:44: error: cannot find symbol
+	public WebDriver driver;
+	       ^
+  symbol:   class WebDriver
+  location: class ExtendedDriver
+src\test\java\com\companyname\automation\webdriverextensions\ExtendedDriver.java:45: error: cannot find symbol
+	public RemoteWebDriver remoteDriver;
+	       ^
+  symbol:   class RemoteWebDriver
+  location: class ExtendedDriver
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+100 errors
+only showing the first 100 errors, of 606 total; use -Xmaxerrs if you would like to see more

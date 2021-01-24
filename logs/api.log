@@ -1,0 +1,658 @@
+29-12-2020 19:42:49.640 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+29-12-2020 19:42:49.673 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+29-12-2020 19:42:49.674 [Gauge] [DEBUG] Found 1 files
+29-12-2020 19:42:49.693 [Gauge] [INFO] Initializing specs cache with 1 specs
+29-12-2020 19:42:49.693 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+29-12-2020 19:42:49.693 [Gauge] [INFO] Initializing steps cache with 1 steps
+29-12-2020 19:42:49.694 [Gauge] [INFO] Gauge daemon initialized and listening on port: 58962
+29-12-2020 19:42:51.289 [Gauge] [DEBUG] Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:<language:"java" > 
+29-12-2020 19:42:51.429 [Gauge] [DEBUG] Sending API response: messageType:GetLanguagePluginLibPathResponse messageId:5 libPathResponse:<path:"C:\\Users\\tarom\\AppData\\Roaming\\gauge\\plugins\\java\\0.7.13\\libs" > 
+29-12-2020 19:44:07.481 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+29-12-2020 19:44:07.505 [Gauge] [DEBUG] Found 1 files
+29-12-2020 19:44:07.506 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+29-12-2020 19:44:07.507 [Gauge] [INFO] Initializing specs cache with 1 specs
+29-12-2020 19:44:07.507 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+29-12-2020 19:44:07.507 [Gauge] [INFO] Initializing steps cache with 1 steps
+29-12-2020 19:44:07.507 [Gauge] [INFO] Gauge daemon initialized and listening on port: 58969
+29-12-2020 19:54:51.690 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+29-12-2020 19:54:51.690 [Gauge] [DEBUG] Found 1 files
+29-12-2020 19:54:51.704 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+29-12-2020 19:54:51.705 [Gauge] [INFO] Initializing specs cache with 1 specs
+29-12-2020 19:54:51.706 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+29-12-2020 19:54:51.706 [Gauge] [INFO] Initializing steps cache with 1 steps
+29-12-2020 19:54:51.706 [Gauge] [INFO] Gauge daemon initialized and listening on port: 59040
+30-12-2020 08:46:21.739 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+30-12-2020 08:46:22.484 [Gauge] [DEBUG] Found 1 files
+30-12-2020 08:46:22.863 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-12-2020 08:46:24.405 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-12-2020 08:46:24.405 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+30-12-2020 08:46:24.406 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-12-2020 08:46:24.414 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53805
+30-12-2020 08:47:45.037 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+30-12-2020 08:47:45.061 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+30-12-2020 08:48:01.247 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+30-12-2020 08:48:01.248 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+30-12-2020 08:48:01.250 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+30-12-2020 08:48:01.251 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+30-12-2020 08:49:47.331 [Gauge] [INFO] Spec file added / modified: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+30-12-2020 08:49:47.880 [Gauge] [INFO] Spec file added / modified: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+30-12-2020 09:09:30.611 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+30-12-2020 09:09:30.612 [Gauge] [DEBUG] Found 1 files
+30-12-2020 09:09:30.623 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-12-2020 09:09:30.979 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-12-2020 09:09:30.980 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+30-12-2020 09:09:30.980 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-12-2020 09:09:30.980 [Gauge] [INFO] Gauge daemon initialized and listening on port: 54031
+30-12-2020 09:10:40.888 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+30-12-2020 09:10:40.920 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+30-12-2020 09:11:07.364 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+30-12-2020 09:11:07.364 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+30-12-2020 09:11:08.518 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+30-12-2020 09:11:08.518 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+30-12-2020 10:56:34.195 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+30-12-2020 10:56:34.386 [Gauge] [DEBUG] Found 1 files
+30-12-2020 10:56:35.003 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-12-2020 10:56:35.058 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-12-2020 10:56:35.058 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+30-12-2020 10:56:35.058 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-12-2020 10:56:35.058 [Gauge] [INFO] Gauge daemon initialized and listening on port: 54820
+30-12-2020 10:57:54.316 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+30-12-2020 10:57:54.374 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+30-12-2020 10:57:54.841 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+30-12-2020 10:57:54.841 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+30-12-2020 10:57:55.387 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+30-12-2020 10:57:55.387 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+30-12-2020 11:22:47.609 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+30-12-2020 11:22:47.647 [Gauge] [DEBUG] Found 1 files
+30-12-2020 11:22:48.168 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-12-2020 11:22:48.615 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-12-2020 11:22:48.615 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+30-12-2020 11:22:48.615 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-12-2020 11:22:48.615 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53485
+30-12-2020 12:18:27.427 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+30-12-2020 12:18:27.804 [Gauge] [DEBUG] Found 1 files
+30-12-2020 12:18:27.819 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-12-2020 12:18:27.846 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-12-2020 12:18:27.847 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+30-12-2020 12:18:27.847 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-12-2020 12:18:27.847 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53934
+30-12-2020 13:22:20.221 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+30-12-2020 13:22:20.239 [Gauge] [DEBUG] Found 1 files
+30-12-2020 13:22:20.745 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-12-2020 13:22:21.437 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-12-2020 13:22:21.437 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+30-12-2020 13:22:21.438 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-12-2020 13:22:21.491 [Gauge] [INFO] Gauge daemon initialized and listening on port: 54274
+30-12-2020 13:36:11.574 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-12-2020 13:36:11.682 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+30-12-2020 13:36:11.687 [Gauge] [DEBUG] Found 1 files
+30-12-2020 13:36:12.083 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-12-2020 13:36:12.083 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+30-12-2020 13:36:12.083 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-12-2020 13:36:12.092 [Gauge] [INFO] Gauge daemon initialized and listening on port: 54399
+30-12-2020 14:19:12.790 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+30-12-2020 14:19:12.888 [Gauge] [DEBUG] Found 1 files
+30-12-2020 14:19:14.192 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-12-2020 14:19:14.489 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-12-2020 14:19:14.489 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+30-12-2020 14:19:14.489 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-12-2020 14:19:14.489 [Gauge] [INFO] Gauge daemon initialized and listening on port: 54788
+30-12-2020 15:53:23.390 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+30-12-2020 15:53:23.418 [Gauge] [DEBUG] Found 1 files
+30-12-2020 15:53:25.280 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-12-2020 15:53:25.971 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-12-2020 15:53:25.971 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+30-12-2020 15:53:25.971 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-12-2020 15:53:26.051 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50041
+30-12-2020 16:22:56.479 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+30-12-2020 16:22:56.827 [Gauge] [DEBUG] Found 1 files
+30-12-2020 16:22:58.224 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-12-2020 16:22:58.746 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-12-2020 16:22:58.746 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+30-12-2020 16:22:58.746 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-12-2020 16:22:58.795 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50359
+30-12-2020 17:52:55.830 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+30-12-2020 17:52:55.919 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+30-12-2020 17:52:55.948 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+30-12-2020 17:52:55.949 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+30-12-2020 17:52:56.025 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+30-12-2020 17:52:56.025 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+30-12-2020 19:08:51.415 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+30-12-2020 19:08:51.586 [Gauge] [DEBUG] Found 1 files
+30-12-2020 19:08:53.155 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-12-2020 19:08:54.028 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-12-2020 19:08:54.028 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+30-12-2020 19:08:54.028 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-12-2020 19:08:54.042 [Gauge] [INFO] Gauge daemon initialized and listening on port: 51853
+30-12-2020 19:36:35.713 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+30-12-2020 19:36:35.714 [Gauge] [DEBUG] Found 1 files
+30-12-2020 19:36:36.062 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-12-2020 19:36:36.065 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-12-2020 19:36:36.065 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+30-12-2020 19:36:36.065 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-12-2020 19:36:36.065 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52706
+30-12-2020 19:46:37.154 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+30-12-2020 19:46:37.328 [Gauge] [DEBUG] Found 1 files
+30-12-2020 19:46:37.695 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-12-2020 19:46:37.925 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-12-2020 19:46:37.926 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+30-12-2020 19:46:37.926 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-12-2020 19:46:37.926 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52805
+30-12-2020 19:55:51.661 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+30-12-2020 19:55:51.665 [Gauge] [DEBUG] Found 1 files
+30-12-2020 19:55:51.936 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-12-2020 19:55:51.937 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-12-2020 19:55:51.937 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+30-12-2020 19:55:51.937 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-12-2020 19:55:51.937 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53360
+31-12-2020 05:30:01.735 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+31-12-2020 05:30:01.759 [Gauge] [DEBUG] Found 1 files
+31-12-2020 05:30:17.024 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+31-12-2020 05:30:17.421 [Gauge] [INFO] Initializing specs cache with 1 specs
+31-12-2020 05:30:17.421 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+31-12-2020 05:30:17.421 [Gauge] [INFO] Initializing steps cache with 1 steps
+31-12-2020 05:30:17.422 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56610
+31-12-2020 08:16:49.101 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+31-12-2020 08:16:49.113 [Gauge] [DEBUG] Found 1 files
+31-12-2020 08:17:12.756 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+31-12-2020 08:17:12.769 [Gauge] [INFO] Initializing specs cache with 1 specs
+31-12-2020 08:17:12.769 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+31-12-2020 08:17:12.769 [Gauge] [INFO] Initializing steps cache with 1 steps
+31-12-2020 08:17:12.769 [Gauge] [INFO] Gauge daemon initialized and listening on port: 62234
+31-12-2020 10:17:06.114 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+31-12-2020 10:17:06.152 [Gauge] [DEBUG] Found 1 files
+31-12-2020 10:19:19.955 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+31-12-2020 10:19:19.957 [Gauge] [INFO] Initializing specs cache with 1 specs
+31-12-2020 10:19:19.957 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+31-12-2020 10:19:19.957 [Gauge] [INFO] Initializing steps cache with 1 steps
+31-12-2020 10:19:19.957 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52781
+31-12-2020 11:29:30.103 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+31-12-2020 11:29:30.134 [Gauge] [DEBUG] Found 1 files
+31-12-2020 11:30:03.451 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+31-12-2020 11:30:03.453 [Gauge] [INFO] Initializing specs cache with 1 specs
+31-12-2020 11:30:03.453 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+31-12-2020 11:30:03.454 [Gauge] [INFO] Initializing steps cache with 1 steps
+31-12-2020 11:30:03.454 [Gauge] [INFO] Gauge daemon initialized and listening on port: 62002
+31-12-2020 12:17:05.853 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+31-12-2020 12:17:05.874 [Gauge] [DEBUG] Found 1 files
+31-12-2020 12:18:04.936 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+31-12-2020 12:18:04.939 [Gauge] [INFO] Initializing specs cache with 1 specs
+31-12-2020 12:18:04.939 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+31-12-2020 12:18:04.939 [Gauge] [INFO] Initializing steps cache with 1 steps
+31-12-2020 12:18:04.939 [Gauge] [INFO] Gauge daemon initialized and listening on port: 62438
+31-12-2020 14:44:06.231 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+31-12-2020 14:44:06.246 [Gauge] [DEBUG] Found 1 files
+31-12-2020 14:44:49.697 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+31-12-2020 14:44:49.699 [Gauge] [INFO] Initializing specs cache with 1 specs
+31-12-2020 14:44:49.699 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+31-12-2020 14:44:49.699 [Gauge] [INFO] Initializing steps cache with 1 steps
+31-12-2020 14:44:49.699 [Gauge] [INFO] Gauge daemon initialized and listening on port: 64855
+01-01-2021 08:07:07.151 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+01-01-2021 08:07:07.235 [Gauge] [DEBUG] Found 1 files
+01-01-2021 08:12:06.457 [Gauge] [INFO] Spec file added / modified: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+01-01-2021 09:15:10.602 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+01-01-2021 09:15:10.661 [Gauge] [DEBUG] Found 2 files
+01-01-2021 09:16:42.070 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+01-01-2021 09:16:42.187 [Gauge] [INFO] Initializing specs cache with 2 specs
+01-01-2021 09:16:42.187 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+01-01-2021 09:16:42.187 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+01-01-2021 09:16:42.187 [Gauge] [INFO] Initializing steps cache with 2 steps
+01-01-2021 09:16:42.187 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56404
+01-01-2021 09:16:54.641 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+01-01-2021 09:16:54.648 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+01-01-2021 09:16:54.841 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+01-01-2021 09:16:54.841 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+01-01-2021 09:16:55.102 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+01-01-2021 09:16:55.102 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+01-01-2021 09:16:55.236 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The 4Ocean Site" > 
+01-01-2021 09:16:55.236 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The 4Ocean Site" parameterizedStepValue:"Open The 4Ocean Site" > > 
+01-01-2021 09:16:55.252 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The Catalog" > 
+01-01-2021 09:16:55.252 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The Catalog" parameterizedStepValue:"Open The Catalog" > > 
+01-01-2021 09:16:55.323 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Find Item <table>" > 
+01-01-2021 09:16:55.324 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Find Item {}" parameterizedStepValue:"Find Item <table>" parameters:"table" > > 
+01-01-2021 10:42:39.639 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Find Item <Item>" > 
+01-01-2021 10:42:39.863 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Find Item {}" parameterizedStepValue:"Find Item <Item>" parameters:"Item" > > 
+01-01-2021 10:43:30.654 [Gauge] [INFO] Spec file added / modified: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+01-01-2021 10:43:30.911 [Gauge] [INFO] Spec file added / modified: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+01-01-2021 11:51:59.693 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+01-01-2021 11:51:59.858 [Gauge] [DEBUG] Found 2 files
+01-01-2021 11:57:18.300 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+01-01-2021 11:57:18.696 [Gauge] [INFO] Initializing specs cache with 2 specs
+01-01-2021 11:57:18.696 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+01-01-2021 11:57:18.696 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+01-01-2021 11:57:18.696 [Gauge] [INFO] Initializing steps cache with 2 steps
+01-01-2021 11:57:18.734 [Gauge] [INFO] Gauge daemon initialized and listening on port: 60703
+01-01-2021 11:57:41.438 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The 4Ocean Site" > 
+01-01-2021 11:57:41.446 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The 4Ocean Site" parameterizedStepValue:"Open The 4Ocean Site" > > 
+01-01-2021 11:57:51.144 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+01-01-2021 11:57:51.144 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+01-01-2021 11:57:51.144 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+01-01-2021 11:57:51.145 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+01-01-2021 11:57:51.145 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+01-01-2021 11:57:51.145 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+01-01-2021 11:57:51.192 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The Catalog" > 
+01-01-2021 11:57:51.192 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The Catalog" parameterizedStepValue:"Open The Catalog" > > 
+01-01-2021 11:57:51.206 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Find Item <Item>" > 
+01-01-2021 11:57:51.221 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Find Item {}" parameterizedStepValue:"Find Item <Item>" parameters:"Item" > > 
+01-01-2021 11:57:51.300 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Find Item <table>" > 
+01-01-2021 11:57:51.301 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Find Item {}" parameterizedStepValue:"Find Item <table>" parameters:"table" > > 
+01-01-2021 14:03:37.947 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+01-01-2021 14:03:37.971 [Gauge] [DEBUG] Found 2 files
+01-01-2021 14:05:00.246 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+01-01-2021 14:05:00.419 [Gauge] [INFO] Initializing specs cache with 2 specs
+01-01-2021 14:05:00.419 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+01-01-2021 14:05:00.419 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+01-01-2021 14:05:00.420 [Gauge] [INFO] Initializing steps cache with 2 steps
+01-01-2021 14:05:00.420 [Gauge] [INFO] Gauge daemon initialized and listening on port: 61030
+01-01-2021 16:04:01.144 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+01-01-2021 16:04:01.194 [Gauge] [DEBUG] Found 2 files
+01-01-2021 16:05:43.354 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+01-01-2021 16:05:43.639 [Gauge] [INFO] Initializing specs cache with 2 specs
+01-01-2021 16:05:43.639 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+01-01-2021 16:05:43.639 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+01-01-2021 16:05:43.639 [Gauge] [INFO] Initializing steps cache with 2 steps
+01-01-2021 16:05:43.639 [Gauge] [INFO] Gauge daemon initialized and listening on port: 62940
+01-01-2021 19:00:35.545 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+01-01-2021 19:00:35.622 [Gauge] [DEBUG] Found 2 files
+01-01-2021 19:03:04.049 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+01-01-2021 19:03:04.333 [Gauge] [INFO] Initializing specs cache with 2 specs
+01-01-2021 19:03:04.333 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+01-01-2021 19:03:04.333 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+01-01-2021 19:03:04.333 [Gauge] [INFO] Initializing steps cache with 2 steps
+01-01-2021 19:03:04.333 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52888
+01-01-2021 19:03:28.789 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The Catalog" > 
+01-01-2021 19:03:28.827 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The Catalog" parameterizedStepValue:"Open The Catalog" > > 
+01-01-2021 19:03:30.634 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+01-01-2021 19:03:30.643 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+01-01-2021 19:03:30.707 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+01-01-2021 19:03:30.713 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+01-01-2021 19:03:31.183 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+01-01-2021 19:03:31.200 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+01-01-2021 19:03:31.272 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The 4Ocean Site" > 
+01-01-2021 19:03:31.272 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The 4Ocean Site" parameterizedStepValue:"Open The 4Ocean Site" > > 
+01-01-2021 19:03:31.352 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Find Item <table>" > 
+01-01-2021 19:03:31.357 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Find Item {}" parameterizedStepValue:"Find Item <table>" parameters:"table" > > 
+01-01-2021 19:03:31.858 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Find Item <Item>" > 
+01-01-2021 19:03:31.860 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Find Item {}" parameterizedStepValue:"Find Item <Item>" parameters:"Item" > > 
+02-01-2021 07:31:33.192 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+02-01-2021 07:31:33.243 [Gauge] [DEBUG] Found 2 files
+02-01-2021 07:34:12.738 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+02-01-2021 07:34:12.958 [Gauge] [INFO] Initializing specs cache with 2 specs
+02-01-2021 07:34:12.958 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+02-01-2021 07:34:12.959 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+02-01-2021 07:34:12.959 [Gauge] [INFO] Initializing steps cache with 2 steps
+02-01-2021 07:34:12.959 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56363
+02-01-2021 12:45:10.580 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+02-01-2021 12:45:10.665 [Gauge] [DEBUG] Found 2 files
+02-01-2021 12:47:43.284 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+02-01-2021 12:47:43.640 [Gauge] [INFO] Initializing specs cache with 2 specs
+02-01-2021 12:47:43.640 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+02-01-2021 12:47:43.640 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+02-01-2021 12:47:43.641 [Gauge] [INFO] Initializing steps cache with 2 steps
+02-01-2021 12:47:43.641 [Gauge] [INFO] Gauge daemon initialized and listening on port: 58127
+02-01-2021 16:40:01.492 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+02-01-2021 16:40:01.546 [Gauge] [DEBUG] Found 2 files
+02-01-2021 16:42:35.381 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+02-01-2021 16:42:35.694 [Gauge] [INFO] Initializing specs cache with 2 specs
+02-01-2021 16:42:35.694 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+02-01-2021 16:42:35.694 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+02-01-2021 16:42:35.694 [Gauge] [INFO] Initializing steps cache with 2 steps
+02-01-2021 16:42:35.694 [Gauge] [INFO] Gauge daemon initialized and listening on port: 51464
+02-01-2021 19:58:34.654 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+02-01-2021 19:58:34.691 [Gauge] [DEBUG] Found 2 files
+02-01-2021 20:02:03.378 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+02-01-2021 20:02:03.510 [Gauge] [INFO] Initializing specs cache with 2 specs
+02-01-2021 20:02:03.511 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+02-01-2021 20:02:03.511 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+02-01-2021 20:02:03.511 [Gauge] [INFO] Initializing steps cache with 2 steps
+02-01-2021 20:02:03.511 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52936
+02-01-2021 20:02:08.529 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The 4Ocean Site" > 
+02-01-2021 20:02:08.540 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The 4Ocean Site" parameterizedStepValue:"Open The 4Ocean Site" > > 
+02-01-2021 20:02:12.138 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+02-01-2021 20:02:12.140 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+02-01-2021 20:02:12.141 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+02-01-2021 20:02:12.142 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+02-01-2021 20:02:12.144 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+02-01-2021 20:02:12.145 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+02-01-2021 20:02:12.177 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The Catalog" > 
+02-01-2021 20:02:12.184 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The Catalog" parameterizedStepValue:"Open The Catalog" > > 
+02-01-2021 20:02:47.976 [Gauge] [INFO] Spec file added / modified: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+02-01-2021 20:02:48.108 [Gauge] [INFO] Spec file added / modified: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+02-01-2021 21:12:41.131 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+02-01-2021 21:12:41.146 [Gauge] [DEBUG] Found 2 files
+02-01-2021 21:14:40.692 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+02-01-2021 21:14:40.889 [Gauge] [INFO] Initializing specs cache with 2 specs
+02-01-2021 21:14:40.889 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+02-01-2021 21:14:40.889 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+02-01-2021 21:14:40.889 [Gauge] [INFO] Initializing steps cache with 2 steps
+02-01-2021 21:14:40.889 [Gauge] [INFO] Gauge daemon initialized and listening on port: 54040
+02-01-2021 21:29:08.639 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The Catalog" > 
+02-01-2021 21:29:08.709 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The Catalog" parameterizedStepValue:"Open The Catalog" > > 
+02-01-2021 21:29:09.386 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+02-01-2021 21:29:09.392 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+02-01-2021 21:29:09.567 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+02-01-2021 21:29:09.567 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+02-01-2021 21:29:09.904 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+02-01-2021 21:29:09.928 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+02-01-2021 21:29:10.024 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The 4Ocean Site" > 
+02-01-2021 21:29:10.036 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The 4Ocean Site" parameterizedStepValue:"Open The 4Ocean Site" > > 
+02-01-2021 21:29:10.193 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Find Item <table>" > 
+02-01-2021 21:29:10.241 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Find Item {}" parameterizedStepValue:"Find Item <table>" parameters:"table" > > 
+03-01-2021 04:12:53.453 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+03-01-2021 04:12:53.701 [Gauge] [DEBUG] Found 2 files
+03-01-2021 04:15:28.624 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+03-01-2021 04:15:29.001 [Gauge] [INFO] Initializing specs cache with 2 specs
+03-01-2021 04:15:29.001 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+03-01-2021 04:15:29.001 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+03-01-2021 04:15:29.001 [Gauge] [INFO] Initializing steps cache with 2 steps
+03-01-2021 04:15:29.001 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55518
+03-01-2021 04:29:10.554 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+03-01-2021 04:29:10.974 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+03-01-2021 04:34:26.914 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+03-01-2021 04:34:26.928 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+03-01-2021 04:34:27.511 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+03-01-2021 04:34:27.516 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+03-01-2021 04:34:27.533 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The 4Ocean Site" > 
+03-01-2021 04:34:27.543 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The 4Ocean Site" parameterizedStepValue:"Open The 4Ocean Site" > > 
+03-01-2021 04:34:27.544 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The Catalog" > 
+03-01-2021 04:34:27.556 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The Catalog" parameterizedStepValue:"Open The Catalog" > > 
+03-01-2021 04:34:27.760 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Find Item <table>" > 
+03-01-2021 04:34:27.760 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Find Item {}" parameterizedStepValue:"Find Item <table>" parameters:"table" > > 
+03-01-2021 17:10:45.264 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+03-01-2021 17:10:45.288 [Gauge] [DEBUG] Found 2 files
+03-01-2021 17:13:53.983 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+03-01-2021 17:13:54.418 [Gauge] [INFO] Initializing specs cache with 2 specs
+03-01-2021 17:13:54.418 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+03-01-2021 17:13:54.418 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+03-01-2021 17:13:54.418 [Gauge] [INFO] Initializing steps cache with 2 steps
+03-01-2021 17:13:54.418 [Gauge] [INFO] Gauge daemon initialized and listening on port: 51336
+03-01-2021 18:39:52.174 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+03-01-2021 18:39:52.320 [Gauge] [DEBUG] Found 2 files
+03-01-2021 18:40:00.528 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+03-01-2021 18:40:00.992 [Gauge] [INFO] Initializing specs cache with 2 specs
+03-01-2021 18:40:00.992 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+03-01-2021 18:40:00.993 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+03-01-2021 18:40:00.993 [Gauge] [INFO] Initializing steps cache with 2 steps
+03-01-2021 18:40:00.993 [Gauge] [INFO] Gauge daemon initialized and listening on port: 60216
+04-01-2021 08:27:45.195 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+04-01-2021 08:27:45.222 [Gauge] [DEBUG] Found 2 files
+04-01-2021 08:28:14.680 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+04-01-2021 08:28:15.089 [Gauge] [INFO] Initializing specs cache with 2 specs
+04-01-2021 08:28:15.167 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+04-01-2021 08:28:15.167 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+04-01-2021 08:28:15.167 [Gauge] [INFO] Initializing steps cache with 2 steps
+04-01-2021 08:28:15.167 [Gauge] [INFO] Gauge daemon initialized and listening on port: 57896
+04-01-2021 09:45:01.343 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The 4Ocean Site" > 
+04-01-2021 09:45:01.407 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The 4Ocean Site" parameterizedStepValue:"Open The 4Ocean Site" > > 
+04-01-2021 09:45:01.453 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The 4Ocean Site" > 
+04-01-2021 09:45:01.459 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The 4Ocean Site" parameterizedStepValue:"Open The 4Ocean Site" > > 
+04-01-2021 09:45:05.758 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+04-01-2021 09:45:05.768 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+04-01-2021 09:45:05.778 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+04-01-2021 09:45:05.779 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+04-01-2021 09:45:05.780 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+04-01-2021 09:45:05.780 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+04-01-2021 09:45:05.781 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+04-01-2021 09:45:05.782 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+04-01-2021 09:45:05.783 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+04-01-2021 09:45:05.783 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+04-01-2021 09:45:05.784 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+04-01-2021 09:45:05.784 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+04-01-2021 09:45:07.285 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The Catalog" > 
+04-01-2021 09:45:07.297 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The Catalog" parameterizedStepValue:"Open The Catalog" > > 
+04-01-2021 10:53:28.032 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+04-01-2021 10:53:28.296 [Gauge] [DEBUG] Found 2 files
+04-01-2021 10:53:41.489 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+04-01-2021 10:53:41.700 [Gauge] [INFO] Initializing specs cache with 2 specs
+04-01-2021 10:53:41.701 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+04-01-2021 10:53:41.701 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+04-01-2021 10:53:41.701 [Gauge] [INFO] Initializing steps cache with 2 steps
+04-01-2021 10:53:41.701 [Gauge] [INFO] Gauge daemon initialized and listening on port: 63146
+04-01-2021 10:54:42.645 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The 4Ocean Site" > 
+04-01-2021 10:54:42.661 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The 4Ocean Site" parameterizedStepValue:"Open The 4Ocean Site" > > 
+04-01-2021 10:55:07.771 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+04-01-2021 10:55:07.773 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+04-01-2021 10:55:07.774 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+04-01-2021 10:55:07.776 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+04-01-2021 10:55:07.777 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+04-01-2021 10:55:07.778 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+04-01-2021 10:55:08.845 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The Catalog" > 
+04-01-2021 10:55:08.845 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The Catalog" parameterizedStepValue:"Open The Catalog" > > 
+09-01-2021 11:09:05.335 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+09-01-2021 11:09:05.790 [Gauge] [DEBUG] Found 2 files
+09-01-2021 11:09:50.460 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+09-01-2021 11:09:51.588 [Gauge] [INFO] Initializing specs cache with 2 specs
+09-01-2021 11:09:51.588 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+09-01-2021 11:09:51.588 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+09-01-2021 11:09:51.588 [Gauge] [INFO] Initializing steps cache with 2 steps
+09-01-2021 11:09:51.588 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56883
+09-01-2021 11:10:34.024 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The 4Ocean Site" > 
+09-01-2021 11:10:34.040 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The 4Ocean Site" parameterizedStepValue:"Open The 4Ocean Site" > > 
+09-01-2021 11:10:54.778 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+09-01-2021 11:10:54.778 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+09-01-2021 11:10:54.953 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+09-01-2021 11:10:54.954 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+09-01-2021 11:10:54.955 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+09-01-2021 11:10:54.955 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+09-01-2021 11:10:56.142 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The Catalog" > 
+09-01-2021 11:10:56.142 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The Catalog" parameterizedStepValue:"Open The Catalog" > > 
+09-01-2021 19:33:39.514 [Gauge] [INFO] Spec file added / modified: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+09-01-2021 19:33:48.133 [Gauge] [INFO] Spec file added / modified: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+09-01-2021 19:34:53.871 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Find Item <Item>" > 
+09-01-2021 19:34:53.913 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Find Item {}" parameterizedStepValue:"Find Item <Item>" parameters:"Item" > > 
+09-01-2021 19:34:54.756 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Find Item <Item>" > 
+09-01-2021 19:34:54.756 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Find Item {}" parameterizedStepValue:"Find Item <Item>" parameters:"Item" > > 
+09-01-2021 19:34:54.757 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Find Item <Item>" > 
+09-01-2021 19:34:54.757 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Find Item {}" parameterizedStepValue:"Find Item <Item>" parameters:"Item" > > 
+09-01-2021 19:35:28.003 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Find Item <table>" > 
+09-01-2021 19:35:28.003 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Find Item {}" parameterizedStepValue:"Find Item <table>" parameters:"table" > > 
+09-01-2021 19:36:04.118 [Gauge] [INFO] Spec file added / modified: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+09-01-2021 19:36:04.898 [Gauge] [INFO] Spec file added / modified: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+09-01-2021 20:22:34.319 [Gauge] [INFO] Closing connection [127.0.0.1:56913] cause: read tcp 127.0.0.1:56883->127.0.0.1:56913: wsarecv: An existing connection was forcibly closed by the remote host.
+09-01-2021 20:22:38.936 [Gauge] [CRITICAL] Killing Gauge daemon. Parent process with pid 11428 has terminated.
+09-01-2021 20:29:40.484 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+09-01-2021 20:29:40.683 [Gauge] [DEBUG] Found 2 files
+09-01-2021 20:30:53.977 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+09-01-2021 20:30:54.874 [Gauge] [INFO] Initializing specs cache with 2 specs
+09-01-2021 20:30:54.874 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+09-01-2021 20:30:54.936 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+09-01-2021 20:30:54.936 [Gauge] [INFO] Initializing steps cache with 2 steps
+09-01-2021 20:30:54.936 [Gauge] [INFO] Gauge daemon initialized and listening on port: 62084
+10-01-2021 07:18:33.845 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+10-01-2021 07:18:35.111 [Gauge] [DEBUG] Found 2 files
+10-01-2021 07:19:31.048 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+10-01-2021 07:19:31.915 [Gauge] [INFO] Initializing specs cache with 2 specs
+10-01-2021 07:19:31.915 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+10-01-2021 07:19:31.915 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+10-01-2021 07:19:31.915 [Gauge] [INFO] Initializing steps cache with 2 steps
+10-01-2021 07:19:31.915 [Gauge] [INFO] Gauge daemon initialized and listening on port: 54157
+11-01-2021 06:56:42.029 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+11-01-2021 06:56:42.650 [Gauge] [DEBUG] Found 2 files
+11-01-2021 06:57:29.083 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+11-01-2021 06:57:29.639 [Gauge] [INFO] Initializing specs cache with 2 specs
+11-01-2021 06:57:29.639 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+11-01-2021 06:57:29.639 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+11-01-2021 06:57:29.639 [Gauge] [INFO] Initializing steps cache with 2 steps
+11-01-2021 06:57:29.639 [Gauge] [INFO] Gauge daemon initialized and listening on port: 61605
+12-01-2021 10:31:06.182 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+12-01-2021 10:31:06.295 [Gauge] [DEBUG] Found 2 files
+12-01-2021 10:31:40.077 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+12-01-2021 10:31:40.793 [Gauge] [INFO] Initializing specs cache with 2 specs
+12-01-2021 10:31:40.793 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+12-01-2021 10:31:40.793 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+12-01-2021 10:31:40.794 [Gauge] [INFO] Initializing steps cache with 2 steps
+12-01-2021 10:31:40.794 [Gauge] [INFO] Gauge daemon initialized and listening on port: 51690
+12-01-2021 12:58:17.375 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+12-01-2021 12:58:17.717 [Gauge] [DEBUG] Found 2 files
+12-01-2021 12:58:54.134 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+12-01-2021 12:58:54.657 [Gauge] [INFO] Initializing specs cache with 2 specs
+12-01-2021 12:58:54.657 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+12-01-2021 12:58:54.657 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+12-01-2021 12:58:54.658 [Gauge] [INFO] Initializing steps cache with 2 steps
+12-01-2021 12:58:54.658 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52637
+12-01-2021 18:42:57.187 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The 4Ocean Site" > 
+12-01-2021 18:42:57.298 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The 4Ocean Site" parameterizedStepValue:"Open The 4Ocean Site" > > 
+12-01-2021 18:43:03.493 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+12-01-2021 18:43:03.572 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+12-01-2021 18:43:03.573 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+12-01-2021 18:43:03.573 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+12-01-2021 18:43:03.574 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+12-01-2021 18:43:03.588 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+12-01-2021 18:43:04.768 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The Catalog" > 
+12-01-2021 18:43:04.780 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The Catalog" parameterizedStepValue:"Open The Catalog" > > 
+12-01-2021 18:43:04.844 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Find Item <Item>" > 
+12-01-2021 18:43:04.851 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Find Item {}" parameterizedStepValue:"Find Item <Item>" parameters:"Item" > > 
+12-01-2021 18:43:04.883 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Find Item <table>" > 
+12-01-2021 18:43:04.893 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Find Item {}" parameterizedStepValue:"Find Item <table>" parameters:"table" > > 
+13-01-2021 05:46:25.566 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+13-01-2021 05:46:25.759 [Gauge] [DEBUG] Found 2 files
+13-01-2021 05:47:15.124 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+13-01-2021 05:47:15.727 [Gauge] [INFO] Initializing specs cache with 2 specs
+13-01-2021 05:47:15.727 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+13-01-2021 05:47:15.727 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+13-01-2021 05:47:15.727 [Gauge] [INFO] Initializing steps cache with 2 steps
+13-01-2021 05:47:15.727 [Gauge] [INFO] Gauge daemon initialized and listening on port: 65272
+14-01-2021 11:52:15.583 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+14-01-2021 11:52:15.918 [Gauge] [DEBUG] Found 2 files
+14-01-2021 11:52:53.613 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+14-01-2021 11:52:53.951 [Gauge] [INFO] Initializing specs cache with 2 specs
+14-01-2021 11:52:53.951 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+14-01-2021 11:52:53.951 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+14-01-2021 11:52:53.951 [Gauge] [INFO] Initializing steps cache with 2 steps
+14-01-2021 11:52:53.952 [Gauge] [INFO] Gauge daemon initialized and listening on port: 62169
+14-01-2021 21:20:58.018 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+14-01-2021 21:20:58.126 [Gauge] [DEBUG] Found 2 files
+14-01-2021 21:22:02.925 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+14-01-2021 21:22:03.385 [Gauge] [INFO] Initializing specs cache with 2 specs
+14-01-2021 21:22:03.385 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+14-01-2021 21:22:03.385 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+14-01-2021 21:22:03.386 [Gauge] [INFO] Initializing steps cache with 2 steps
+14-01-2021 21:22:03.386 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50984
+15-01-2021 08:49:13.245 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+15-01-2021 08:49:13.643 [Gauge] [DEBUG] Found 2 files
+15-01-2021 08:49:17.735 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-01-2021 08:49:17.969 [Gauge] [INFO] Initializing specs cache with 2 specs
+15-01-2021 08:49:17.969 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+15-01-2021 08:49:17.969 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+15-01-2021 08:49:17.969 [Gauge] [INFO] Initializing steps cache with 2 steps
+15-01-2021 08:49:17.969 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56357
+15-01-2021 09:22:18.197 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+15-01-2021 09:22:18.198 [Gauge] [DEBUG] Found 2 files
+15-01-2021 09:22:18.800 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-01-2021 09:22:18.895 [Gauge] [INFO] Initializing specs cache with 2 specs
+15-01-2021 09:22:18.895 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+15-01-2021 09:22:18.895 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+15-01-2021 09:22:18.895 [Gauge] [INFO] Initializing steps cache with 2 steps
+15-01-2021 09:22:18.895 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56999
+15-01-2021 12:06:48.686 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+15-01-2021 12:06:48.745 [Gauge] [DEBUG] Found 2 files
+15-01-2021 12:07:27.598 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-01-2021 12:07:27.995 [Gauge] [INFO] Initializing specs cache with 2 specs
+15-01-2021 12:07:27.995 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+15-01-2021 12:07:27.995 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+15-01-2021 12:07:27.995 [Gauge] [INFO] Initializing steps cache with 2 steps
+15-01-2021 12:07:27.996 [Gauge] [INFO] Gauge daemon initialized and listening on port: 61091
+15-01-2021 20:00:43.419 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+15-01-2021 20:00:43.474 [Gauge] [DEBUG] Found 2 files
+15-01-2021 20:00:50.604 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-01-2021 20:00:51.092 [Gauge] [INFO] Initializing specs cache with 2 specs
+15-01-2021 20:00:51.092 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+15-01-2021 20:00:51.092 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+15-01-2021 20:00:51.092 [Gauge] [INFO] Initializing steps cache with 2 steps
+15-01-2021 20:00:51.092 [Gauge] [INFO] Gauge daemon initialized and listening on port: 58989
+16-01-2021 12:09:56.881 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+16-01-2021 12:09:57.950 [Gauge] [DEBUG] Found 2 files
+16-01-2021 12:10:22.040 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+16-01-2021 12:10:22.404 [Gauge] [INFO] Initializing specs cache with 2 specs
+16-01-2021 12:10:22.404 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+16-01-2021 12:10:22.404 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+16-01-2021 12:10:22.404 [Gauge] [INFO] Initializing steps cache with 2 steps
+16-01-2021 12:10:22.404 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56712
+16-01-2021 16:23:54.593 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+16-01-2021 16:23:54.781 [Gauge] [DEBUG] Found 2 files
+16-01-2021 16:24:03.280 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+16-01-2021 16:24:03.626 [Gauge] [INFO] Initializing specs cache with 2 specs
+16-01-2021 16:24:03.626 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+16-01-2021 16:24:03.626 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+16-01-2021 16:24:03.627 [Gauge] [INFO] Initializing steps cache with 2 steps
+16-01-2021 16:24:03.627 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53521
+17-01-2021 08:02:43.705 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+17-01-2021 08:02:43.823 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+17-01-2021 10:28:53.700 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+17-01-2021 10:28:53.813 [Gauge] [DEBUG] Found 2 files
+17-01-2021 10:29:05.419 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+17-01-2021 10:29:05.928 [Gauge] [INFO] Initializing specs cache with 2 specs
+17-01-2021 10:29:05.929 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+17-01-2021 10:29:05.929 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+17-01-2021 10:29:05.929 [Gauge] [INFO] Initializing steps cache with 2 steps
+17-01-2021 10:29:05.929 [Gauge] [INFO] Gauge daemon initialized and listening on port: 65360
+18-01-2021 09:25:26.575 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+18-01-2021 09:25:26.932 [Gauge] [DEBUG] Found 2 files
+18-01-2021 09:25:55.862 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+18-01-2021 09:25:56.588 [Gauge] [INFO] Initializing specs cache with 2 specs
+18-01-2021 09:25:56.588 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+18-01-2021 09:25:56.588 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+18-01-2021 09:25:56.588 [Gauge] [INFO] Initializing steps cache with 2 steps
+18-01-2021 09:25:56.589 [Gauge] [INFO] Gauge daemon initialized and listening on port: 58768
+18-01-2021 10:59:35.130 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+18-01-2021 10:59:35.386 [Gauge] [DEBUG] Found 2 files
+18-01-2021 10:59:50.898 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+18-01-2021 10:59:51.422 [Gauge] [INFO] Initializing specs cache with 2 specs
+18-01-2021 10:59:51.422 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+18-01-2021 10:59:51.423 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+18-01-2021 10:59:51.423 [Gauge] [INFO] Initializing steps cache with 2 steps
+18-01-2021 10:59:51.423 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56788
+19-01-2021 08:47:36.962 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+19-01-2021 08:47:36.976 [Gauge] [DEBUG] Found 2 files
+19-01-2021 08:47:52.622 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+19-01-2021 08:47:53.440 [Gauge] [INFO] Initializing specs cache with 2 specs
+19-01-2021 08:47:53.440 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+19-01-2021 08:47:53.440 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+19-01-2021 08:47:53.484 [Gauge] [INFO] Initializing steps cache with 2 steps
+19-01-2021 08:47:53.484 [Gauge] [INFO] Gauge daemon initialized and listening on port: 54728
+22-01-2021 10:09:12.707 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+22-01-2021 10:09:12.783 [Gauge] [DEBUG] Found 2 files
+22-01-2021 10:09:34.747 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+22-01-2021 10:09:35.164 [Gauge] [INFO] Initializing specs cache with 2 specs
+22-01-2021 10:09:35.164 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+22-01-2021 10:09:35.165 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+22-01-2021 10:09:35.165 [Gauge] [INFO] Initializing steps cache with 2 steps
+22-01-2021 10:09:35.165 [Gauge] [INFO] Gauge daemon initialized and listening on port: 62840
+23-01-2021 11:19:45.003 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+23-01-2021 11:19:45.379 [Gauge] [DEBUG] Found 2 files
+23-01-2021 11:20:02.402 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+23-01-2021 11:20:02.570 [Gauge] [INFO] Initializing specs cache with 2 specs
+23-01-2021 11:20:02.570 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+23-01-2021 11:20:02.570 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+23-01-2021 11:20:02.570 [Gauge] [INFO] Initializing steps cache with 2 steps
+23-01-2021 11:20:02.570 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52808
+23-01-2021 21:08:32.692 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+23-01-2021 21:08:32.890 [Gauge] [DEBUG] Found 2 files
+23-01-2021 21:08:49.653 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+23-01-2021 21:08:50.156 [Gauge] [INFO] Initializing specs cache with 2 specs
+23-01-2021 21:08:50.156 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+23-01-2021 21:08:50.156 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+23-01-2021 21:08:50.157 [Gauge] [INFO] Initializing steps cache with 2 steps
+23-01-2021 21:08:50.157 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55644
+24-01-2021 08:41:47.445 [Gauge] [INFO] Watching directory: C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs
+24-01-2021 08:41:47.446 [Gauge] [DEBUG] Found 2 files
+24-01-2021 08:42:00.013 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+24-01-2021 08:42:00.707 [Gauge] [INFO] Initializing specs cache with 2 specs
+24-01-2021 08:42:00.708 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\example.spec
+24-01-2021 08:42:00.708 [Gauge] [DEBUG] Adding specs from C:\Users\tarom\IdeaProjects\Gauge4Ocean\specs\4Ocean.spec
+24-01-2021 08:42:00.708 [Gauge] [INFO] Initializing steps cache with 2 steps
+24-01-2021 08:42:00.708 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56395
+24-01-2021 10:05:59.639 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The 4Ocean Site" > 
+24-01-2021 10:05:59.846 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The 4Ocean Site" parameterizedStepValue:"Open The 4Ocean Site" > > 
+24-01-2021 10:06:01.429 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+24-01-2021 10:06:01.438 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+24-01-2021 10:06:01.439 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+24-01-2021 10:06:01.440 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+24-01-2021 10:06:01.441 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+24-01-2021 10:06:01.451 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+24-01-2021 10:06:01.452 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open The Catalog" > 
+24-01-2021 10:06:01.461 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open The Catalog" parameterizedStepValue:"Open The Catalog" > > 
+24-01-2021 10:06:01.486 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Find Item <Item>" > 
+24-01-2021 10:06:01.513 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Find Item {}" parameterizedStepValue:"Find Item <Item>" parameters:"Item" > > 
+24-01-2021 10:06:01.514 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Find Item <table>" > 
+24-01-2021 10:06:01.527 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Find Item {}" parameterizedStepValue:"Find Item <table>" parameters:"table" > > 

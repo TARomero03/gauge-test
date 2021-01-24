@@ -1,0 +1,562 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 10613milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 10613"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 57264"}
+{"logLevel":"info","message":"Listening on port:57264"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.ensureInstallationInstructionsAreAvailable' and 'org.example.StepImplementation.ensureInstallationInstructionsAreAvailable'"}
+{"logLevel":"debug","message":"Found Ensure installation instructions are available in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.FindItem' and 'org.example.StepImplementation.FindItem'"}
+{"logLevel":"debug","message":"Found Find Item {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.Open4Ocean' and 'org.example.StepImplementation.Open4Ocean'"}
+{"logLevel":"debug","message":"Found Open The 4Ocean Site in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.gotoGetStartedPage' and 'org.example.StepImplementation.gotoGetStartedPage'"}
+{"logLevel":"debug","message":"Found Go to Gauge Get Started Page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.implementation1' and 'org.example.StepImplementation.implementation1'"}
+{"logLevel":"debug","message":"Found Open the Gauge homepage in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.OpenCatalog' and 'org.example.StepImplementation.OpenCatalog'"}
+{"logLevel":"debug","message":"Found Open The Catalog in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\t// blank no check on the Scenario/Pickle Provided\r\n\"Scenarios : public void beforeTestMethod(@Optional(\"true\") boolean bDetailLog, @Optional(\"All\") String sScreenCaptureLevel, @Optional(\"chrome\") String sBrowser, @Optional(\"\") String sFeatures, @Optional(\"\") String sScenarios, @Optional(\"\") String sResultsFolder, @Optional(\"\") String sEventsLogFolder, @Optional(\"\") String sExpected, @Optional(\"\") String sExcelFile, @Optional(\"\") String sWorksheet, ITestContext ctx)"}
+{"logLevel":"debug","message":"\tFind Item {} : public void FindItem(String sItemName)"}
+{"logLevel":"debug","message":"\tDetailLog : public void beforeTestMethod(@Optional(\"true\") boolean bDetailLog, @Optional(\"All\") String sScreenCaptureLevel, @Optional(\"chrome\") String sBrowser, @Optional(\"\") String sFeatures, @Optional(\"\") String sScenarios, @Optional(\"\") String sResultsFolder, @Optional(\"\") String sEventsLogFolder, @Optional(\"\") String sExpected, @Optional(\"\") String sExcelFile, @Optional(\"\") String sWorksheet, ITestContext ctx)"}
+{"logLevel":"debug","message":"\tI find Item {string} : public void i_find_Item(String ProductName)"}
+{"logLevel":"debug","message":"\tExcelFile : public void beforeTestMethod(@Optional(\"true\") boolean bDetailLog, @Optional(\"All\") String sScreenCaptureLevel, @Optional(\"chrome\") String sBrowser, @Optional(\"\") String sFeatures, @Optional(\"\") String sScenarios, @Optional(\"\") String sResultsFolder, @Optional(\"\") String sEventsLogFolder, @Optional(\"\") String sExpected, @Optional(\"\") String sExcelFile, @Optional(\"\") String sWorksheet, ITestContext ctx)"}
+{"logLevel":"debug","message":"\tScreenCaptureLevel : public void beforeTestMethod(@Optional(\"true\") boolean bDetailLog, @Optional(\"All\") String sScreenCaptureLevel, @Optional(\"chrome\") String sBrowser, @Optional(\"\") String sFeatures, @Optional(\"\") String sScenarios, @Optional(\"\") String sResultsFolder, @Optional(\"\") String sEventsLogFolder, @Optional(\"\") String sExpected, @Optional(\"\") String sExcelFile, @Optional(\"\") String sWorksheet, ITestContext ctx)"}
+{"logLevel":"debug","message":"\tWorksheet : public void beforeTestMethod(@Optional(\"true\") boolean bDetailLog, @Optional(\"All\") String sScreenCaptureLevel, @Optional(\"chrome\") String sBrowser, @Optional(\"\") String sFeatures, @Optional(\"\") String sScenarios, @Optional(\"\") String sResultsFolder, @Optional(\"\") String sEventsLogFolder, @Optional(\"\") String sExpected, @Optional(\"\") String sExcelFile, @Optional(\"\") String sWorksheet, ITestContext ctx)"}
+{"logLevel":"debug","message":"\t// blank no check on the Feature Provided\r\n\"Features : public void beforeTestMethod(@Optional(\"true\") boolean bDetailLog, @Optional(\"All\") String sScreenCaptureLevel, @Optional(\"chrome\") String sBrowser, @Optional(\"\") String sFeatures, @Optional(\"\") String sScenarios, @Optional(\"\") String sResultsFolder, @Optional(\"\") String sEventsLogFolder, @Optional(\"\") String sExpected, @Optional(\"\") String sExcelFile, @Optional(\"\") String sWorksheet, ITestContext ctx)"}
+{"logLevel":"debug","message":"\tthe Shopping Page should open : public void the_Shopping_Page_should_open()"}
+{"logLevel":"debug","message":"\tOpen the Gauge homepage : public void implementation1()"}
+{"logLevel":"debug","message":"\tOpen The 4Ocean Site : public void Open4Ocean()"}
+{"logLevel":"debug","message":"\tOpen The Catalog : public void OpenCatalog()"}
+{"logLevel":"debug","message":"\tResultsFolder : public void beforeTestMethod(@Optional(\"true\") boolean bDetailLog, @Optional(\"All\") String sScreenCaptureLevel, @Optional(\"chrome\") String sBrowser, @Optional(\"\") String sFeatures, @Optional(\"\") String sScenarios, @Optional(\"\") String sResultsFolder, @Optional(\"\") String sEventsLogFolder, @Optional(\"\") String sExpected, @Optional(\"\") String sExcelFile, @Optional(\"\") String sWorksheet, ITestContext ctx)"}
+{"logLevel":"debug","message":"\tI enter in the URL http:\\\\/\\\\/www{double}ocean.com and hit the enter key : public void i_enter_in_the_URL_http_www_ocean_com_and_hit_the_enter_key(Double double1)"}
+{"logLevel":"debug","message":"\tI highlight the Product : public void i_highlight_the_Product()"}
+{"logLevel":"debug","message":"\tEnsure installation instructions are available : public void ensureInstallationInstructionsAreAvailable() throws InterruptedException"}
+{"logLevel":"debug","message":"\tEventLogFolder : public void beforeTestMethod(@Optional(\"true\") boolean bDetailLog, @Optional(\"All\") String sScreenCaptureLevel, @Optional(\"chrome\") String sBrowser, @Optional(\"\") String sFeatures, @Optional(\"\") String sScenarios, @Optional(\"\") String sResultsFolder, @Optional(\"\") String sEventsLogFolder, @Optional(\"\") String sExpected, @Optional(\"\") String sExcelFile, @Optional(\"\") String sWorksheet, ITestContext ctx)"}
+{"logLevel":"debug","message":"\tExpected : public void beforeTestMethod(@Optional(\"true\") boolean bDetailLog, @Optional(\"All\") String sScreenCaptureLevel, @Optional(\"chrome\") String sBrowser, @Optional(\"\") String sFeatures, @Optional(\"\") String sScenarios, @Optional(\"\") String sResultsFolder, @Optional(\"\") String sEventsLogFolder, @Optional(\"\") String sExpected, @Optional(\"\") String sExcelFile, @Optional(\"\") String sWorksheet, ITestContext ctx)"}
+{"logLevel":"debug","message":"\tI find Product {string} : public void i_find_Product(String ProductName)"}
+{"logLevel":"debug","message":"\tGo to Gauge Get Started Page : public void gotoGetStartedPage() throws InterruptedException"}
+{"logLevel":"debug","message":"\tThe browser is open : public void the_browser_is_open()"}
+{"logLevel":"debug","message":"\tthe {int}Ocean Site should be open : public void the_Ocean_Site_should_be_open(Integer int1)"}
+{"logLevel":"debug","message":"\tI Select the Shop button : public void i_Select_the_Shop_button()"}
+{"logLevel":"debug","message":"\tBrowser : public void beforeTestMethod(@Optional(\"true\") boolean bDetailLog, @Optional(\"All\") String sScreenCaptureLevel, @Optional(\"chrome\") String sBrowser, @Optional(\"\") String sFeatures, @Optional(\"\") String sScenarios, @Optional(\"\") String sResultsFolder, @Optional(\"\") String sEventsLogFolder, @Optional(\"\") String sExpected, @Optional(\"\") String sExcelFile, @Optional(\"\") String sWorksheet, ITestContext ctx)"}
+Starting ChromeDriver 87.0.4280.88 (89e2380a3e36c3464b5dd1302349b1382549290d-refs/branch-heads/4280@{#1761}) on port 46499
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jan 01, 2021 10:17:02 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 41934
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1609514247.651][WARNING]: This version of ChromeDriver has not been tested with Chrome version 87.
+Jan 01, 2021 10:17:30 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Start
+SFCurrent: C:\Users\tarom\IdeaProjects\Gauge4Ocean\test-output
+sResultFolder: 
+Results File: C:\Users\tarom\IdeaProjects\Gauge4Ocean\test-output\\4Ocean Test1_tarom_DESKTOP-HJ064M7_20210101101730237\Results.html
+1
+sBrowser: Name: chrome Ver: 87.0.4280.88 On: Windows 10_10.0
+Html Log: C:\Users\tarom\IdeaProjects\Gauge4Ocean\test-output\4Ocean Test1_tarom_DESKTOP-HJ064M7_20210101101730237
+in log test results stp2
+Current Results Page: C:\Users\tarom\IdeaProjects\Gauge4Ocean\test-output\\4Ocean Test1_tarom_DESKTOP-HJ064M7_20210101101730237\\Results.html
+1
+sBrowser: Name: chrome Ver: 87.0.4280.88 On: Windows 10_10.0
+Log Started GGGGG
+Log Started GGGGGAAAAAAAAAAAAAAAAAAAAAAA
+{"logLevel":"debug","message":"Executing 'Open The 4Ocean Site' using 'class org.example.StepImplementation.Open4Ocean"}
+DT get ewe - not null By.xpath: //div[@id='attentive_overlay']
+Element found:
+Element displayed
+Element not visible
+IsObjectVisible false
+IsDisplayed true
+PopUp Found
+DT get ewe - not null By.xpath: //iframe[@id='attentive_creative']
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+eweFrame Found
+DT get ewe - not null By.xpath: //iframe[@id='attentive_creative']
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+Frame still there
+DT get ewe - not null By.xpath: //iframe[@id='attentive_creative']
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+Frane Switch: true -- frame swtiched
+DT get ewe - not null By.id: closeIconSvg
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+Close X found
+DT get ewe - not null By.xpath: //iframe[@id='attentive_creative']
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+Frame still there
+DT get ewe - not null By.xpath: //iframe[@id='attentive_creative']
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+Frane Switch: true -- frame swtiched
+DT get ewe - not null By.id: closeIconSvg
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+Close X found
+DT get ewe - not null By.xpath: //iframe[@id='attentive_creative']
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+Frame still there
+DT get ewe - not null By.xpath: //iframe[@id='attentive_creative']
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+Frane Switch: true -- frame swtiched
+DT get ewe - not null By.id: closeIconSvg
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+Close X found
+DT get ewe - not null By.xpath: //iframe[@id='attentive_creative']
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+Frame still there
+DT get ewe - not null By.xpath: //iframe[@id='attentive_creative']
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+Frane Switch: true -- frame swtiched
+DT get ewe - not null By.id: closeIconSvg
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+Close X found
+attempt click
+made click
+{"logLevel":"debug","message":"Executing 'Open The Catalog' using 'class org.example.StepImplementation.OpenCatalog"}
+Start: 20210101101830258
+Element found:
+Element displayed
+Element visible
+Start: 20210101101830503
+Element found:
+Element displayed
+Element visible
+attempt click
+made click
+End: 20210101101834306
+Start at: 1609514310503 End at: 1609514314306
+Start at: 1609514310503 End at: 1609514314306
+Start at: 1609514310503 End at: 1609514314306
+Started: 2021-01-01_10:18:30.503
+Started: 2021-01-01_10:18:30.503
+Shop all URL: https://www.4ocean.com/collections/shop-all
+in log test results stp2
+C:\Users\tarom\IdeaProjects\Gauge4Ocean\test-output\\4Ocean Test1_tarom_DESKTOP-HJ064M7_20210101101730237\SC0.png
+Current Results Page: C:\Users\tarom\IdeaProjects\Gauge4Ocean\test-output\\4Ocean Test1_tarom_DESKTOP-HJ064M7_20210101101730237\\Results.html
+{"logLevel":"debug","message":"Executing 'Find Item {}' using 'class org.example.StepImplementation.FindItem"}
+Element found:
+Element displayed
+Element visible
+Element found:
+Element displayed
+Element visible
+DT get ewe - not null By.xpath: //a[contains(text(),'Harp Seal 2-Pound Pack')]
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+Element found:
+Element displayed
+Element visible
+X loc1: 304
+Y loc1: 347
+Element found:
+Element displayed
+Element visible
+X loc1: 304
+Y loc1: 347
+Element found:
+Element displayed
+Element visible
+Element found:
+Element displayed
+Element visible
+getText: NEW
+Element found:
+Element displayed
+Element visible
+DT get ewe - not null By.className: money
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+DT get ewe - not null By.className: color-tile
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+DT get ewe - not null By.className: color-tile
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+r: 44 g: 34 b: 180 a:1
+#2c22b4
+r: 44 g: 34 b: 180 a:1
+#2c22b4
+Color for Tile 1 : #2c22b4
+r: 144 g: 194 b: 220 a:1
+#90c2dc
+r: 144 g: 194 b: 220 a:1
+#90c2dc
+Color for Tile 2 : #90c2dc
+in log test results stp2
+C:\Users\tarom\IdeaProjects\Gauge4Ocean\test-output\\4Ocean Test1_tarom_DESKTOP-HJ064M7_20210101101730237\SC1.png
+Current Results Page: C:\Users\tarom\IdeaProjects\Gauge4Ocean\test-output\\4Ocean Test1_tarom_DESKTOP-HJ064M7_20210101101730237\\Results.html
+getText: Harp Seal 2-Pound Pack
+getText: $40.00 USD
+Element found:
+Element displayed
+Element visible
+X loc1: 326
+Y loc1: 362
+{"logLevel":"debug","message":"Executing 'Open The 4Ocean Site' using 'class org.example.StepImplementation.Open4Ocean"}
+{"logLevel":"debug","message":"Executing 'Open The Catalog' using 'class org.example.StepImplementation.OpenCatalog"}
+{"logLevel":"debug","message":"Executing 'Find Item {}' using 'class org.example.StepImplementation.FindItem"}
+Element found:
+Element displayed
+Element visible
+Element found:
+Element displayed
+Element visible
+DT get ewe - not null By.xpath: //a[contains(text(),'Harp Seal Braided Bracelet')]
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+Element found:
+Element displayed
+Element visible
+X loc1: 485
+Y loc1: 350
+X loc2: 485
+Y loc2: 350
+Element found:
+Element displayed
+Element visible
+X loc1: 485
+Y loc1: 350
+X loc2: 485
+Y loc2: 350
+Element found:
+Element displayed
+Element visible
+Element found:
+Element displayed
+Element visible
+getText: NEW
+Element found:
+Element displayed
+Element visible
+DT get ewe - not null By.className: money
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+DT get ewe - not null By.className: color-tile
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+DT get ewe - not null By.className: color-tile
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+r: 44 g: 34 b: 180 a:1
+#2c22b4
+r: 44 g: 34 b: 180 a:1
+#2c22b4
+Color for Tile 1 : #2c22b4
+r: 144 g: 194 b: 220 a:1
+#90c2dc
+r: 144 g: 194 b: 220 a:1
+#90c2dc
+Color for Tile 2 : #90c2dc
+in log test results stp2
+C:\Users\tarom\IdeaProjects\Gauge4Ocean\test-output\\4Ocean Test1_tarom_DESKTOP-HJ064M7_20210101101730237\SC2.png
+Current Results Page: C:\Users\tarom\IdeaProjects\Gauge4Ocean\test-output\\4Ocean Test1_tarom_DESKTOP-HJ064M7_20210101101730237\\Results.html
+getText: Harp Seal Braided Bracelet
+getText: $20.00 USD
+Element found:
+Element displayed
+Element visible
+X loc1: 504
+Y loc1: 362
+{"logLevel":"debug","message":"Executing 'Open The 4Ocean Site' using 'class org.example.StepImplementation.Open4Ocean"}
+{"logLevel":"debug","message":"Executing 'Open The Catalog' using 'class org.example.StepImplementation.OpenCatalog"}
+{"logLevel":"debug","message":"Executing 'Find Item {}' using 'class org.example.StepImplementation.FindItem"}
+Element found:
+Element displayed
+Element visible
+Element found:
+Element displayed
+Element visible
+DT get ewe - not null By.xpath: //a[contains(text(),'Harp Seal Beaded Bracelet')]
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+Element found:
+Element displayed
+Element visible
+X loc1: 664
+Y loc1: 350
+Element found:
+Element displayed
+Element visible
+X loc1: 664
+Y loc1: 350
+Element found:
+Element displayed
+Element visible
+Element found:
+Element displayed
+Element visible
+getText: NEW
+Element found:
+Element displayed
+Element visible
+DT get ewe - not null By.className: money
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+DT get ewe - not null By.className: color-tile
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+DT get ewe - not null By.className: color-tile
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+r: 44 g: 34 b: 180 a:1
+#2c22b4
+r: 44 g: 34 b: 180 a:1
+#2c22b4
+Color for Tile 1 : #2c22b4
+r: 144 g: 194 b: 220 a:1
+#90c2dc
+r: 144 g: 194 b: 220 a:1
+#90c2dc
+Color for Tile 2 : #90c2dc
+in log test results stp2
+C:\Users\tarom\IdeaProjects\Gauge4Ocean\test-output\\4Ocean Test1_tarom_DESKTOP-HJ064M7_20210101101730237\SC3.png
+Current Results Page: C:\Users\tarom\IdeaProjects\Gauge4Ocean\test-output\\4Ocean Test1_tarom_DESKTOP-HJ064M7_20210101101730237\\Results.html
+getText: Harp Seal Beaded Bracelet
+getText: $20.00 USD
+Element found:
+Element displayed
+Element visible
+X loc1: 683
+Y loc1: 362
+{"logLevel":"debug","message":"Executing 'Open The 4Ocean Site' using 'class org.example.StepImplementation.Open4Ocean"}
+{"logLevel":"debug","message":"Executing 'Open The Catalog' using 'class org.example.StepImplementation.OpenCatalog"}
+{"logLevel":"debug","message":"Executing 'Find Item {}' using 'class org.example.StepImplementation.FindItem"}
+Element found:
+Element displayed
+Element visible
+Element found:
+Element displayed
+Element visible
+DT get ewe - not null By.xpath: //a[contains(text(),'4ocean On-The-Go Pack')]
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+Element found:
+Element displayed
+Element visible
+X loc1: 664
+Y loc1: 1096
+Element found:
+Element displayed
+Element visible
+X loc1: 664
+Y loc1: 1096
+Element found:
+Element displayed
+Element visible
+Element found:
+Element displayed
+Element visible
+getText: NEW
+Element found:
+Element displayed
+Element visible
+DT get ewe - not null By.className: money
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+DT get ewe - not null By.className: money
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+in log test results stp2
+C:\Users\tarom\IdeaProjects\Gauge4Ocean\test-output\\4Ocean Test1_tarom_DESKTOP-HJ064M7_20210101101730237\SC4.png
+Current Results Page: C:\Users\tarom\IdeaProjects\Gauge4Ocean\test-output\\4Ocean Test1_tarom_DESKTOP-HJ064M7_20210101101730237\\Results.html
+getText: 4ocean On-The-Go Pack
+getText: $40.00 USD
+getText: $47.00 USD
+Element found:
+Element displayed
+Element visible
+X loc1: 683
+Y loc1: 1111
+{"logLevel":"debug","message":"Executing 'Open The 4Ocean Site' using 'class org.example.StepImplementation.Open4Ocean"}
+{"logLevel":"debug","message":"Executing 'Open The Catalog' using 'class org.example.StepImplementation.OpenCatalog"}
+{"logLevel":"debug","message":"Executing 'Find Item {}' using 'class org.example.StepImplementation.FindItem"}
+Element found:
+Element displayed
+Element visible
+Element found:
+Element displayed
+Element visible
+DT get ewe - not null By.xpath: //a[contains(text(),'Harp Seal Braided Bracelet')]
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+Element found:
+Element displayed
+Element visible
+X loc1: 485
+Y loc1: 350
+X loc2: 485
+Y loc2: 350
+Element found:
+Element displayed
+Element visible
+X loc1: 485
+Y loc1: 350
+X loc2: 485
+Y loc2: 350
+Element found:
+Element displayed
+Element visible
+Element found:
+Element displayed
+Element visible
+getText: NEW
+Element found:
+Element displayed
+Element visible
+DT get ewe - not null By.className: money
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+DT get ewe - not null By.className: color-tile
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+DT get ewe - not null By.className: color-tile
+Element found:
+Element displayed
+Element visible
+IsObjectVisible true
+IsDisplayed true
+r: 44 g: 34 b: 180 a:1
+#2c22b4
+r: 44 g: 34 b: 180 a:1
+#2c22b4
+Color for Tile 1 : #2c22b4
+r: 144 g: 194 b: 220 a:1
+#90c2dc
+r: 144 g: 194 b: 220 a:1
+#90c2dc
+Color for Tile 2 : #90c2dc
+in log test results stp2
+C:\Users\tarom\IdeaProjects\Gauge4Ocean\test-output\\4Ocean Test1_tarom_DESKTOP-HJ064M7_20210101101730237\SC5.png
+Current Results Page: C:\Users\tarom\IdeaProjects\Gauge4Ocean\test-output\\4Ocean Test1_tarom_DESKTOP-HJ064M7_20210101101730237\\Results.html
+getText: Harp Seal Braided Bracelet
+getText: $20.00 USD
+Element found:
+Element displayed
+Element visible
+X loc1: 504
+Y loc1: 362
+Jan 01, 2021 10:26:35 AM org.openqa.selenium.os.OsProcess destroy
+SEVERE: Unable to kill process Process[pid=10592, exitValue=1]
+ResultsVV: C:\Users\tarom\IdeaProjects\Gauge4Ocean\test-output\\4Ocean Test1_tarom_DESKTOP-HJ064M7_20210101101730237
+ResultsRF: C:\Users\tarom\IdeaProjects\Gauge4Ocean\test-output\
+Rel: ..//////4Ocean Test1_tarom_DESKTOP-HJ064M7_20210101101730237
+A3
+ResultsVV: C:\Users\tarom\IdeaProjects\Gauge4Ocean\test-output\\4Ocean Test1_tarom_DESKTOP-HJ064M7_20210101101730237
+ResultsRF: C:\Users\tarom\IdeaProjects\Gauge4Ocean\test-output\
+Rel: ..//////4Ocean Test1_tarom_DESKTOP-HJ064M7_20210101101730237
